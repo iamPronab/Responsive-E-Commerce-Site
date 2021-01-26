@@ -1,0 +1,85 @@
+*{margin:0}
+
+.logo{height: 30px;
+width: 160px;}
+
+a{text-decoration: none;
+color: black;}
+
+.main-pic{margin-left: 100px;
+height: 300px;}
+
+.img{height: 17rem;
+padding: 1rem;}
+
+.second{margin-top: 300px;}
+
+.others{margin-left:50px;}
+
+.jacket-img {height:270px;
+margin: 10px;
+background-color: #D3D3D3;
+}
+.jacket-img img{margin-right: 20px;}
+
+.br{border-radius: 15px;}
+.bl{color:black;}
+
+.men{margin-top: 100px;}
+
+.box-logo{height: 70px;}
+
+.box{margin-left: 60px;
+border-radius: 20px;}
+.con{margin-bottom: 30px;
+border-radius: 20px;
+border: 0;
+}
+
+.dibba img{height: 30px;}
+.dibba{width: 3rem;}
+
+.con{border-radius: 20px;}
+
+.box{margin-left: 1rem;
+border: ;
+width: 50%;}
+.frame{display:flex;
+    width: 95%;
+padding-right: 30px;
+border-radius: 20px;
+margin-top: 2rem;}
+.div img{height: 5rem;
+margin-top: 10px;
+margin-left: 1rem;}
+.details{margin-left: 2rem;}
+.frame-right img{width: 25rem;
+    margin-left: 7rem;
+    height: 20rem;
+float: right;
+margin-bottom: 29rem;
+border:;
+margin-right: 2rem;
+margin-top: 13rem}
+.frame-right{border:;
+width: 50%;margin-left: 32rem;
+margin-top: -36rem;}
+.main{margin-top: -10rem}
+
+@media screen and (max-width: 700px) {
+    body{width: 100%;}
+  div.box{margin-top: 30rem;
+width: 100%;
+margin-bottom:-3rem;}
+    ..frame{display:;}
+    .div img{margin-left: 1rem;
+    margin-top: 20px;}
+
+    .frame-right{border:;
+        width: 40%;margin-left: 32rem;
+        margin-top: -50rem;
+    margin-left: 17rem;
+margin-bottom: 5rem;}
+}
+.frame-right img{margin-top: -1rem;}
+.f1{margin-top: 25rem;}
