@@ -42,7 +42,7 @@ border: 0;
 .con{border-radius: 20px;}
 
 .box{margin-left: 1rem;
-border: ;
+
 width: 50%;}
 .frame{display:flex;
     width: 95%;
@@ -58,10 +58,10 @@ margin-left: 1rem;}
     height: 20rem;
 float: right;
 margin-bottom: 29rem;
-border:;
+
 margin-right: 2rem;
 margin-top: 13rem}
-.frame-right{border:;
+.frame-right{
 width: 50%;margin-left: 32rem;
 margin-top: -36rem;}
 .main{margin-top: -10rem}
@@ -72,11 +72,11 @@ margin-top: -36rem;}
 width: 100%;
 margin-bottom:-3rem;
 margin-left: 4rem;}
-    .frame{display:;}
+    
     .div img{margin-left: 1rem;
     margin-top: 20px;}
 
-    .frame-right{border:;
+    .frame-right{
         width: 40%;
         margin-top: -50rem;
     margin-left: 21rem;
